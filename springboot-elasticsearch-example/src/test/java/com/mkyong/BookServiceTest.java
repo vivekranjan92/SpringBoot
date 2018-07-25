@@ -1,4 +1,4 @@
-package com.elasticsearch;
+package com.mkyong;
 
 import org.junit.Before;
 import org.junit.Test;
